@@ -4,7 +4,7 @@ A responsive and modern restaurant landing page built using **HTML, CSS, JavaScr
 
 ## 🌐 Live Demo
 
-🔗 [View Live Website](YOUR-LIVE-DEMO-LINK)
+🔗 [View Live Website](https://varsha0521.github.io/restaurant-landing-page/)
 
 ## 📌 About the Project
 
